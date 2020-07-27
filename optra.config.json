@@ -1,0 +1,30 @@
+{
+  "name": "Simulated Trucks",
+  "icon": "action",
+  "repository": {
+    "uri": "optraskills.azurecr.io/hello-world:0.0.2"
+  },
+  "createOptions": {},
+  "env": {
+    "TEST": "test-env-variable"
+  },
+  "inputs": {
+    "totalSpaces": {
+      "label": "Total Spaces"
+    }
+  },
+  "outputs": {
+    "spacesAvailable": {
+      "label": "Available Spaces"
+    },
+    "spacesOccupied": {
+      "label": "Occupied Spaces"
+    },
+    "snapshot": {
+      "label": "Snapshot URL"
+    },
+    "debug": {
+      "label": "Debug URL"
+    }
+  }
+}

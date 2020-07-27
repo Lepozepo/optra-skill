@@ -1,0 +1,15 @@
+{
+  "name": "optra-sample-skill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azure-iot-device": "^1.14.0",
+    "azure-iot-device-mqtt": "^1.13.0",
+    "lodash": "^4.17.15",
+    "uuid": "^8.0.0"
+  }
+}
