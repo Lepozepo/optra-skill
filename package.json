@@ -9,7 +9,7 @@
   "dependencies": {
     "azure-iot-device": "^1.14.0",
     "azure-iot-device-mqtt": "^1.13.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "uuid": "^8.0.0"
   }
 }
